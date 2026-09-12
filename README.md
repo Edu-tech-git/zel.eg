@@ -1,1 +1,41 @@
-# zel.links
+# Zel.links (Zel.eg)
+
+A professional and modern web interface featuring an immersive video background. This project is designed to provide a clean, engaging, and visually appealing user experience.
+
+## 🚀 Features
+
+* **Immersive Video Background:** Enhances the visual experience using an embedded background video (`bg.mp4`).
+* **Clean & Modern UI:** Fully styled with custom CSS for a sleek and attractive look.
+* **Organized Architecture:** Project files (assets, stylesheets, structure) are neatly separated for easy maintenance and readability.
+* **Custom Branding:** Includes tailored assets like a custom logo and favicon.
+
+## 🛠️ Built With
+
+* **HTML5:** For the semantic structure of the web page.
+* **CSS3:** For styling, layout, and visual effects.
+
+## 📂 Project Structure
+
+\`\`\`text
+zel.eg-main/
+├── assets/
+│   ├── bg.mp4         # Background video for the landing page
+│   ├── favicon.png    # Website tab icon
+│   └── logo.png       # Main brand logo
+├── css/
+│   └── style.css      # Main stylesheet for the UI
+├── index.html         # Main entry HTML file
+└── README.md          # Project documentation
+\`\`\`
+
+## 💻 Getting Started
+
+To view and run this project locally on your machine, follow these simple steps:
+
+1. Clone this repository or download the project files as a ZIP.
+2. Extract the downloaded ZIP file.
+3. Open the `index.html` file directly in any modern web browser (e.g., Chrome, Edge, Safari). No local server installation is required.
+
+## 👨‍💻 Author
+
+* **GitHub:** [@Edu-tech-git](https://github.com/Edu-tech-git)
