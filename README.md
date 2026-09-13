@@ -25,7 +25,6 @@ To view and run this project locally on your machine, follow these simple steps:
 ## 👨‍💻 Author
 
 * **GitHub:** [@Edu-tech-git](https://github.com/Edu-tech-git)
-* Portfolio: [omar597106.github.io/My-CV-Website](https://omar597106.github.io/My-CV-Website/)
 *  LinkedIn: [Omar Shaban](https://www.linkedin.com/in/omarshabandev)
 *  Facebook: [Edu Tech](https://web.facebook.com/profile.php?id=61566806702998)
 *  Instagram: [@oedu_tech](https://www.instagram.com/oedu_tech/)
